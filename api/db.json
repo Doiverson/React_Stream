@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "This is my FIRST tatoo",
+      "description": "Not painful",
+      "id": 2
+    },
+    {
+      "title": "sasa",
+      "description": "sasa",
+      "userId": "106070585774448772375",
+      "id": 3
+    },
+    {
+      "title": "live",
+      "description": "13",
+      "userId": "106070585774448772375",
+      "id": 4
+    }
+  ]
+}
